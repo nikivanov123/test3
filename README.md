@@ -10,6 +10,6 @@
 -Библиотеки: `pip install matplotlib requests`
 ## Как запустить 
 ```bash
-git clone https://github.com/nikivanov123/.git cd Movie-Library
-cd Movie-Library
+git clone https://github.com/nikivanov123/.git cd MovieLibrary
+cd MovieLibrary
 python main.py
