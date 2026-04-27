@@ -13,5 +13,5 @@
 ## Как запустить 
 
 ```bash
-git clone https://github.com/nikivanov123/.git
-cd Movie-Library
+git clone https://github.com/nikivanov123/.git cd Movie-Library
+python main.py
