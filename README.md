@@ -10,5 +10,5 @@
 -Библиотеки: `pip install matplotlib requests`
 ## Как запустить 
 ```bash
-git clone https://github.com/nikivanov123/test3.git cd MovieLibrary
+git clone https://github.com/nikivanov123/test3.git cd movielibrary
 python main.py
